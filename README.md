@@ -10,6 +10,8 @@
   <a href="mailto:abhyodayasingh00@gmail.com">Email</a>
   ·
   <a href="https://github.com/Abhyodaya1">GitHub</a>
+  .
+   <a href="https://portfolio-phi-five-him5t7wox2.vercel.app/">Portfolio</a>
 </p>
 
 ---
